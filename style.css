@@ -1,0 +1,10 @@
+button {
+  border-radius: 25px;
+  padding: 1rem 1.5rem;
+  font-weight: 800;
+  background-color: #aa93b5;
+}
+#displayMessage {
+  border: 1px black solid;
+  height: 4rem;
+}
